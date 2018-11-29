@@ -11,7 +11,7 @@ This responsive application, built using Object-Oriented Programming principles,
 ## Technologies + Tools 
 
 * Bootstrap 4/Bootswatch
-* OpenWeather API
+* OpenWeatherMap API
 * HTML5
 * CSS3
 * AJAX
