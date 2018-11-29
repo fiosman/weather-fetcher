@@ -1,6 +1,6 @@
 # Weather Fetcher
 
-This responsive application, built using Object-Oriented Programming principles, uses JavaScript's built in Fetch API & modern async/await syntax to make AJAX requests and retrieve JSON format weather data from [OpenWeatherMap public API](https://openweathermap.org/api). 
+This responsive application, built using Object-Oriented Programming principles, uses JavaScript's built in fetch API & modern async/await syntax to make AJAX requests and retrieve JSON format weather data from [OpenWeatherMap public API](https://openweathermap.org/api). 
 
 ## How It Works
 
