@@ -11,6 +11,7 @@ submitBtn.addEventListener('click', function (e) {
     e.preventDefault();
 });
 
+//class instantiations 
 function getData() {
     const weather = new Main(input.value, selectUnits.value)
     const location = new Display()
