@@ -4,7 +4,7 @@ This responsive application, built using Object-Oriented Programming principles,
 
 ## How It Works
 
-* User inputs city name and country code using (e.g. San Diego, US) 
+* User inputs city name and country code (e.g. San Diego, US) 
 * User selects the units of measurement they'd like to be displayed 
 * Temperature, brief weather description, windspeed and relative humidity are displayed. 
 
